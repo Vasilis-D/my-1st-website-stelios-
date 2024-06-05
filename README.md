@@ -15,6 +15,8 @@
 2. clue2
 ---
 
+
+ 
 <!-- εδώ μπαίνει το σχόλιο μας γενικά αν π.χ θέλουμε να αφήσουμε κάποιο σχόλιο για κάποιον -->
 
 ![εδώ είναι ένα alt text](https://media.wired.com/photos/654c217ef60d52277c2aed35/master/w_2240,c_limit/Legend-of-Zelda-TotK-Movie-Culture.jpg)
